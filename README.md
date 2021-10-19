@@ -5,4 +5,4 @@ I'm a Software Engineer, Mostly focus in distributed systems, cloud native and b
 - 🌱 I’m currently learning **[Golang](https://golang.org/ "Golang")**
 - 📫 How to reach me: **[Twitter](https://twitter.com/JeissonK19 "Twitter")**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can pronounce my name like JSON 
+- ✍️  Blog: **[Jeisson.dev](https://jeisson.dev/blog)**
